@@ -20,6 +20,18 @@
 * [Website](#Website)
 
 # Data-Type
+* Quantitative
+  * Discrete
+  * Continuous
+  * Interval
+  * Ratio
+
+* Qualitative(Categorical Variables)
+  * Ordinal
+  * Nominal
+  * Binary Attribute
+    * Symmetric
+    * Asymmetric
 
 # Feature-Scaling-or-Normalization
 
