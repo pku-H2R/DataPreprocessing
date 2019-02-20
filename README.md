@@ -24,6 +24,12 @@
   * Binary Attribute
     * Symmetric
     * Asymmetric
+* Structured Data
+  * Tabular Data
+* Unstructured Data
+  * Image
+  * Audio
+  * Text
 
 # Feature-Scaling-or-Normalization
 
