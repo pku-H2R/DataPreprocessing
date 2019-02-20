@@ -32,6 +32,11 @@
   * Text
 
 # Feature-Scaling-or-Normalization
+* Standardization
+  * z-score
+  * MinMax
+* Normalization
+* Binarization
 
 # Missing-Data
 
