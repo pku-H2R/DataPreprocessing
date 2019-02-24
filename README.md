@@ -27,9 +27,13 @@
 * Structured Data
   * Tabular Data
 * Unstructured Data
+  * Text
   * Image
   * Audio
+* Sequence
   * Text
+  * Audio
+  * Time series
 
 # Feature-Scaling-or-Normalization
 * Standardization
