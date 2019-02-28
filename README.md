@@ -9,6 +9,7 @@
 * [Outlier](#Outlier)
 * [Noisy Data](#Noisy-Data)
 * [Inconsistency](#Inconsistency)
+* [Exploratory Data Analysis](#Exploratory_Data_Analysis)
 * [Website](#Website)
 
 # Data-Type
@@ -51,6 +52,9 @@
 # Noisy Data
 
 # Inconsistency
+
+# Exploratory_Data_Analysis
+* [Speedml](https://speedml.com/automate-exploratory-data-analysis/)
 
 # Website
 * [Scikit-learn](https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
