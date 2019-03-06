@@ -1,4 +1,4 @@
-![Picture](https://github.com/pku-H2R/Model-Selection/blob/master/Picture/machine_learning.png)
+![Picture](https://github.com/pku-H2R/DataPreprocessing/blob/master/Picture/Preprocessing.jpg)
 # Getting Started 
   
 # Model List
